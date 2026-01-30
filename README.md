@@ -10,6 +10,7 @@ These files are not portfolio pieces and not official submissions — they exist
 
 - [bee.py](bee.py) — initial version of the bee exercise  
 - [bee_final.py](bee_final.py) — refined final version of the bee exercise  
+- [calculator.py](calculator.py) — simple arithmetic calculator exploring multiple input‑parsing approaches  
 - [compare.py](compare.py) — compares two values using multiple approaches  
 - [distances.py](distances.py) — calculates distances using simple numeric logic  
 - [extensions.py](extensions.py) — maps file extensions to their MIME types  
@@ -24,7 +25,7 @@ These files are not portfolio pieces and not official submissions — they exist
 - [phone3.py](phone3.py) — final, most robust phone‑number parser  
 - [recommendations.py](recommendations.py) — simple recommendation logic based on conditions  
 - [report.py](report.py) — generates a small formatted output report  
-- [results.py](results.py) — processes and displays results from sample data  
+- [results.py](results.py) — processes and displays results from sample data    
 
 ## Structure Philosophy
 
