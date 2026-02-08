@@ -31,6 +31,10 @@ A minimal workspace for my CS50P practice variations. This repository contains a
 - [**letters.py**](letters.py) — counts letters in a given string  
 - [**meal.py**](meal.py) — determines meal times based on user input  
 - [**recommendations.py**](recommendations.py) — simple recommendation logic based on conditions  
+- [**food.py**](food.py) — object‑oriented practice file modeling ingredients and heart‑restoration logic  
+
+### 📦 Object‑Oriented Practice
+- [**packages.py**](packages.py) — small class‑based exercise modeling package data and printing formatted summaries  
 
 ### 📞 Phone Number Parsing
 - [**phone.py**](phone.py) — first attempt at normalizing phone numbers  
